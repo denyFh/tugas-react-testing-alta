@@ -1,0 +1,9 @@
+{
+    "rules": {
+        "import/no-extraneous-dependencies": "off",
+        "linebreak-style": "off",
+        "react/jsx-filename-extension": "off",
+        "react/react-in-jsx-scope": "on",
+        "jsx-a11y/label-has-associated-control": "off"
+    }
+}
